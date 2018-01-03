@@ -1,0 +1,8 @@
+git is free software
+git is good
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+gzh
+gzh add one
+gzh add two
+fuck
